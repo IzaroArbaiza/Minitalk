@@ -24,12 +24,6 @@
   - Each character is sent bit by bit  
   - Waits and handles acknowledgment from server before sending next byte
 
-### 🧩 Bonus (if implemented)
-
-- Support for sending large messages without data loss  
-- Handling multiple consecutive messages or simultaneous clients  
-- Improved reliability under heavy load or rapid transmission
-
 ## 🚀 How to Use
 
 Clone the repository and compile:
